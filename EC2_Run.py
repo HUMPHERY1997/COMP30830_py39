@@ -127,6 +127,6 @@ def ContinuousGetData():
 
 # In[ ]:
 
-
+print("Start")
 ContinuousGetData()
 
